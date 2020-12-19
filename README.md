@@ -1,11 +1,5 @@
 # Getting used to PySpark
 
-## References
-* About Spark:
-  - Spark: The Definitve Guide (2018)
-
-* About Colab: https://towardsdatascience.com/pyspark-in-google-colab-6821c2faf41c
-
 ## Running PySpark in Colab
 * local에 별도로 Spark를 설치하지 않고 Colab 환경에서 PySpark 실습
 
@@ -38,3 +32,14 @@ from pyspark.sql import SparkSession
 spark = SparkSession.builder.master("local[*]").getOrCreate()
 ```
 DONE!
+
+## Data and Code
+* From https://github.com/FVBros/Spark-The-Definitive-Guide
+
+
+## References
+* About Spark:
+  - Spark: The Definitve Guide (2018)
+
+* About Colab: https://towardsdatascience.com/pyspark-in-google-colab-6821c2faf41c
+
