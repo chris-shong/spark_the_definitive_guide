@@ -2,7 +2,7 @@
 
 ## References
 * About Spark:
-- SparkL The Definitve Guide (2018)
+  - Spark: The Definitve Guide (2018)
 
 * About Colab: https://towardsdatascience.com/pyspark-in-google-colab-6821c2faf41c
 
