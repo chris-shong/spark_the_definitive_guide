@@ -34,7 +34,7 @@ spark = SparkSession.builder.master("local[*]").getOrCreate()
 DONE!
 
 ## Data and Code
-* From [스파크 완벽 가이드](https://github.com/FVBros/Spark-The-Definitive-Guide)
+* From [Spark-The-Definitive-Guide-GitHub](https://github.com/databricks/Spark-The-Definitive-Guide)
 
 
 ## References
